@@ -15,7 +15,7 @@ function addTask(){
 
     }
     inputBox.value="";
-    inputbox.focus();
+    inputBox.focus();
     saveData();
 }
 
