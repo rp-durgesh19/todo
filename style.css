@@ -46,6 +46,9 @@ input{
     background: transparent;
     padding: 10px;
 }
+input:focus{
+    outline-color: red;
+}
 button{
     border:none;
     outline: none;
